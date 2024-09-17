@@ -1,4 +1,10 @@
-### Hello! I'm Diogo 👋
+<div align = "center">
+<img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align = "center" >Hello, I'm Diogo Ferreira </h2>
+  <img src="https://komarev.com/ghpvc/?username=DiogoFerreira2004&color=blue&style=for-the-badge"></img>
+</div>
+<br>
+<br>
 
 I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in Portugal. 
 
@@ -16,6 +22,7 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br> 
+<br>
 
 
 ### Things that I like :space_invader:
@@ -25,8 +32,26 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
 - Play Games 
 - Programming [of course]
 
+<br>
 
-### Projects
+<h2 align = "center" >Statistics</h2>
+<p align = "center">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoFerreira2004&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFerreira2004&layout=compact&langs_count=7&theme=dracula"/>   
+</div>
+
+<p align = "center">
+<img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
+</p>
+
+<br>
+
+<h2 align = "center" >Projects</h2>
+<p align = "center">
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -40,11 +65,5 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
 | ESOF | [Stock Overflow](https://github.com/DiogoFerreira2004/ESOF)  | The main objective of this project was to develop a mobile application to help users manage their household stock.                                                                                              | 15.10        |
 | LTW | [ShelfSwap](https://github.com/DiogoFerreira2004/LTW)  | Project developed for the Web Languages Laboratory course. It involved creating a website for buying and selling used books.                                                                                            | 14.00        |
 
-
-
-### Stats 
  
- [![DiogoFerreira2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFerreira2004&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
- 
-__Contact__: 
-- diogomfferreira2004@gmail.com
+<h3 align = "center" ><a href="mailto:diogomfferreira2004@gmail.com">Contact me!</a></h3>
