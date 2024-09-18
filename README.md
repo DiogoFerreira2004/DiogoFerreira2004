@@ -48,6 +48,7 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
   <img alt="github-snake" src="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
