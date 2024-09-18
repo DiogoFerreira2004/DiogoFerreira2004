@@ -37,10 +37,16 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
 <h2 align = "center" >Statistics</h2>
 <p align = "center">
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoFerreira2004&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFerreira2004&layout=compact&langs_count=7&theme=dracula"/>   
-</div>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoFerreira2004&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoFerreira2004&theme=2077)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoFerreira2004&theme=2077)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
