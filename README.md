@@ -42,11 +42,22 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoFerreira2004&theme=2077)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoFerreira2004&theme=2077)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake.svg"
+      />
+    </picture>
+</div>
 
 
 <p align = "center">
