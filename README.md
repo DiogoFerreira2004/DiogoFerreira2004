@@ -52,13 +52,10 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
         media="(prefers-color-scheme: light)"
         srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake.svg"
       />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake.svg"
-      />
     </picture>
 </div>
 
+![snake gif](https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg)
 
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
