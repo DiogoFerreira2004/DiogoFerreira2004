@@ -3,70 +3,29 @@
 <h2 align = "center" >Hello, I'm Diogo Ferreira </h2>
   <img src="https://komarev.com/ghpvc/?username=DiogoFerreira2004&color=blue&style=for-the-badge"></img>
 </div>
-<br>
-<br>
 
-I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in Portugal. 
+# About Me :
 
+- 🎯 I'm currently studying Informatic Engineering at FEUP in Portugal
+- 🤝 I’m looking to collaborate on: software engineering projects, including the development of frontend and/or backend applications and websites, as well as artificial intelligence projects.
+- 🛠️ I’m looking for help with: enhancing my skills as a programmer, particularly in the areas of software engineering and artificial intelligence. I am also eager to learn new tools, including programming languages, frameworks, machine learning techniques, and more.
+- 🌱 I’m currently learning: expanding my knowledge in areas such as cybersecurity, functional and logic programming languages like Haskell and Prolog. I’m also exploring new software engineering tools, including the PostgreSQL database, Docker, and the Laravel framework. Additionally, I’m learning Italian and currently pursuing the UEFA C football coaching certification.
+- 💬 Ask me about: my passion for football and how it has helped me develop crucial skills for the professional world, such as teamwork, leadership, and critical thinking.
+- ⚡ Fun fact: Despite studying Informatic Engineering, I was responsible for leading and promoting the Science Club at my high school, focusing on Arduino projects.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br> 
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-ferreira-0bb4302b7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diogoferreira_14) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ronaldodajuventus) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
 
-### Things that I like :space_invader:
-- Football
-- Listen to Music for programming   
-- Reading  
-- Play Games 
-- Programming [of course]
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoFerreira2004&theme=2077)
 
-<br>
-
-<h2 align = "center" >Statistics</h2>
-<p align = "center">
-
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiogoFerreira2004&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoFerreira2004&theme=2077)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoFerreira2004&theme=2077)
-
-<div align="center">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-snake.svg"
-      />
-    </picture>
-</div>
-
-![snake gif](https://github.com/DiogoFerreira2004/DiogoFerreira2004/blob/output/github-contribution-grid-snake.svg)
-
-<p align = "center">
-<img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
-<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
-</p>
-
-<br>
-
-<h2 align = "center" >Projects</h2>
-<p align = "center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoFerreira2004&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoFerreira2004&theme=2077)
+                                                                                                        
+## 📚 College Projects:
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -80,5 +39,13 @@ I'm Diogo Ferreira and I'm currently studying Informatic Engineering at FEUP in 
 | ESOF | [Stock Overflow](https://github.com/DiogoFerreira2004/ESOF)  | The main objective of this project was to develop a mobile application to help users manage their household stock.                                                                                              | 15.10        |
 | LTW | [ShelfSwap](https://github.com/DiogoFerreira2004/LTW)  | Project developed for the Web Languages Laboratory course. It involved creating a website for buying and selling used books.                                                                                            | 14.00        |
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DiogoFerreira2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=DiogoFerreira2004&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+## ✉️ Contacts
  
 <h3 align = "center" ><a href="mailto:diogomfferreira2004@gmail.com">Contact me!</a></h3>
