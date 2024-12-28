@@ -37,6 +37,7 @@
 | DA | [TSP](https://github.com/DiogoFerreira2004/DA-Second-Project)  | The second project for the DA course, focused on developing and analyzing various algorithms for solving the Traveling Salesman Problem (TSP).                                                                                                | 18.90        |
 | ESOF | [Stock Overflow](https://github.com/DiogoFerreira2004/ESOF)  | The main objective of this project was to develop a mobile application to help users manage their household stock.                                                                                              | 15.10        |
 | LTW | [ShelfSwap](https://github.com/DiogoFerreira2004/LTW)  | Project developed for the Web Languages Laboratory course. It involved creating a website for buying and selling used books.                                                                                            | 14.00        |
+| PFL | [TSP](https://github.com/DiogoFerreira2004/TSP)  | The project consisted of solving various path optimization problems, namely the TSP and Shortest Path problems.                                                                                           | NA       |
 
 
 ## 🏆 GitHub Trophies
