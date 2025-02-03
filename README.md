@@ -38,8 +38,8 @@
 | ESOF | [Stock Overflow](https://github.com/DiogoFerreira2004/ESOF)  | The main objective of this project was to develop a mobile application to help users manage their household stock.                                                                                              | 15.10        |
 | LTW | [ShelfSwap](https://github.com/DiogoFerreira2004/LTW)  | Project developed for the Web Languages Laboratory course. It involved creating a website for buying and selling used books.                                                                                            | 14.00        |
 | PFL | [TSP](https://github.com/DiogoFerreira2004/TSP)  | The project consisted of solving various path optimization problems, namely the TSP and Shortest Path problems.                                                                                           | 18.00       |
+| PFL | [Blackstone](https://github.com/DiogoFerreira2004/Blackstone)  | This project involved the implementation of the game BlackStone in Prolog.                                                                          | 19.00       |
 | RCOM | [Serial Port](https://github.com/DiogoFerreira2004/RCOM-Serial-Port)  | The goal of this project was to implement a Data Link Layer protocol, ensuring reliable communication for file transfer between two systems connected by an RS-232 serial cable. The implementation included key functionalities such as framing, error control, connection management, and flow control, alongside a test application to validate the protocol's operation.                                                                         | 17.80       |
-
 
 
 ## 🏆 GitHub Trophies
