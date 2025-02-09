@@ -41,7 +41,7 @@
 | PFL | [Blackstone](https://github.com/DiogoFerreira2004/Blackstone)  | This project involved the implementation of the game BlackStone in Prolog.                                                                          | 19.00       |
 | RCOM | [Serial Port](https://github.com/DiogoFerreira2004/RCOM-Serial-Port)  | The goal of this project was to implement a Data Link Layer protocol, ensuring reliable communication for file transfer between two systems connected by an RS-232 serial cable. The implementation included key functionalities such as framing, error control, connection management, and flow control, alongside a test application to validate the protocol's operation.                                                                         | 17.80       |
 | RCOM | [FTP Client](https://github.com/DiogoFerreira2004/RCOM_Computer_Networks)  | The project involves the development of an FTP download application and the configuration and study of computer networks, including experiments with IP, routing, NAT, DNS, and TCP connections.                                                                        | 15.70       |
-
+| LBAW | [Planora](https://github.com/DiogoFerreira2004/Planora)  | Planora is a flexible and efficient project management platform that enables individuals and teams to seamlessly organize, track, and complete their projects through an intuitive interface, real-time notifications, and collaborative task management features.                                                                       | 17.40       |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DiogoFerreira2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
