@@ -24,11 +24,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoFerreira2004&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoFerreira2004&theme=2077)
-                                                                                                        
+                                                                                                                                                                                                            
 ## 📚 College Projects:
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PROG | [Image Processor](https://github.com/DiogoFerreira2004/Prog)  |  A simple PNG and XPM2 image processor and manipulator in C++.                                                                                                    | 19.60        |
 | BD | [LOL WORLD CUP DATABASE](https://github.com/DiogoFerreira2004/BD)  |  Project developed for the Databases course. It involved creating a database related to the League of Legends World Championship.                                                                                                    | 16.90        |
 | AED | [Horários FEUP](https://github.com/DiogoFerreira2004/AED/tree/master/projetoAED_1/projetoAED-main)  | The primary objective of this project was to develop a terminal capable of analyzing, interpreting, and managing a dataset of FEUP students and their respective schedules.                                                                                                   | 18.10        |
 | AED | [FLIGHT-O-PEDIA](https://github.com/DiogoFerreira2004/AED/tree/master/ProjetoAED_2/ProjetoAED2-diogo)  | This project aimed to develop a terminal capable of analyzing and interpreting an air traffic network.                                                                                                 | 18.60        |
